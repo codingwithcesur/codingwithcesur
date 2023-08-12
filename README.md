@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingwithcesur) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCFvo0lD9gL3lMGu_nPrMQtw) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codingwithcesur) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codingwithcesur9955) 
 
 ### Codewars : [<img alt="CodeWars" src="https://docs.codewars.com/logo.svg" alt="Codewars" width="30px"/>](https://www.codewars.com/users/abkrew)
 
