@@ -1,7 +1,7 @@
 # Furkan Cesur
 
 # 💫 About Me:
-🔭 I’m currently working on freelancing <br>🌱 I’m currently learning React Framework<br>💬 You can ask me about anything related web developing.<br>⚡ Fun fact about me : I try not to waste any second in my life.
+🔭 I’m looking for work <br>🌱 I’m currently learning React Framework<br>💬 You can ask me about anything related web developing.<br>⚡ Fun fact about me : I try not to waste any second in my life.
 
 
 ## 🌐 Socials:
@@ -19,4 +19,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=codingwithcesur&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
