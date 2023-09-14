@@ -1,7 +1,7 @@
 # Furkan Cesur
 
 # 💫 About Me:
-🔭 I’m looking for work <br>🌱 I’m currently learning React Framework<br>💬 You can ask me about anything related web developing.<br>⚡ Fun fact about me : I try not to waste any second in my life.
+🔭 I’m looking for work <br>🌱 I’m currently learning React Framework & Node JS<br>💬 You can ask me about anything related web developing.<br>⚡ Fun fact about me : I try not to waste any second in my life.
 
 
 ## 🌐 Socials:
