@@ -2,7 +2,7 @@
 
 ** `Web Developer, MERN STACK` **
 
-I'm a very hard working web developer that focuses on learning something everyday. My main quality is learning things very quickly, so I try to educate myself on the practices that people use in modern coding. Adapting to new technologies is always my main concern as I'm a MERN stack(for now).
+I'm a hard working web developer and I focus on grinding while helping others. I try to educate myself on the practices that people use in modern coding. Adapting to new technologies is always my main concern. I'm currently a MERN stack(for now).
 
 ## 💻 Languages and Tools 
  <p>
