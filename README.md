@@ -41,6 +41,13 @@ I'm a hard working web developer and I focus on grinding while helping others. I
         style="padding-right: 15px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       />
+      <img 
+        align="left"
+        alt="Redux"
+        width="50px"
+        style="padding-right: 15px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" 
+      />
       <br />
       <br />
       <br />
@@ -78,6 +85,13 @@ I'm a hard working web developer and I focus on grinding while helping others. I
         width="50px"
         style="padding-right: 15px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      />
+      <img
+        align="left"
+        alt="Docker"
+        width="50px"
+        style="padding-right: 15px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
       />
     </p>
 
